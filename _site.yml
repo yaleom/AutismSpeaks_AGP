@@ -1,14 +1,12 @@
-name: "SSC Data Process"
+name: "AGP Data Process Pipeline"
 output_dir: "docs"
 navbar:
-  title: "Austim Speaks | SSC"
+  title: "Austim Speaks | AGP"
   right:
     - text: "Introduction"
       href: index.html
     - text: "Genotype"
       href: Genotype.html
-#    - text: "Imputation"
-#      href: Genotype.html
     - text: "Phenotype"
       href: Phenotype.html
     - text: "GWAS"

@@ -45,3 +45,6 @@ vignettes/*.pdf
 ./figures/*
 figures/
 AutismSpeaks_AGP.Rproj
+./docs/*files/
+./docs/figures/
+./docs/site_libs
